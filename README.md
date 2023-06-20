@@ -1,36 +1,28 @@
-<h1> Hi! My name is Cesar Carlos. </h1>
+# Hi! I'm Cesar Carlos.
+
+- 😍 I'm passionate about programming.  
+- 🌱 I’m currently learning JavaScript.
+
+___
+
+## ⚡ GitHub stats
 
 <div>
-  <a href="https://github.com/Cesar-Carllos?tab=repositories">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Cesar-Carllos&show_icons=true&theme=react&include_all_commits=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Carllos&layout=compact&langs_count=7&theme=react" />
-    
+    <a href="https://github.com/Cesar-Carllos?tab=repositories">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cesar-Carllos&theme=dark&show_icons=true&&hide=prs)](https://github.com/Cesar-Carllos/github-readme-stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Carllos&layout=compact&theme=dark"/>
 </div>
- 
-<div style="none">   
-  <h2>Technologies & Tools</h2>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
+
+___
+
+## 🚀💻 Technologies & Tools
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
 </div>
- 
-  ![Snake animation](https://github.com/Cesar-Carllos/Cesar-Carllos/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
- 
 
+___
 
-<!--
-**Cesar-Carllos/Cesar-Carllos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/Cesar-Carllos/Cesar-Carllos/blob/output/github-contribution-grid-snake.svg)
