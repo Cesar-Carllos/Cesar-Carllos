@@ -1,4 +1,4 @@
-<h1>Hi! I'm Cesar Carlos.</h1>
+<h1>Hi! I'm Cesar Carlos 👋😊</h1>
 
 - 😍 I'm passionate about programming.  
 - 🌱 I’m currently learning JavaScript.
