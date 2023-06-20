@@ -5,9 +5,10 @@
 
 <h2>⚡ GitHub stats </h2>
 
+<a href="https://github.com/Cesar-Carllos?tab=repositories">
+    
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cesar-Carllos&theme=dark&show_icons=true&&hide=prs)
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Carllos&layout=compact&theme=dark)
-
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Carllos&layout=compact&theme=dark)</a>
 
 <h2>🚀💻 Technologies & Tools</h2>
 
