@@ -4,8 +4,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesarcarlos.contact@gmail.com)
 
 
-- 😍 I'm passionate about programming.  
-- 🌱 I’m currently learning JavaScript.
+Aspiring Front-End Developer.
+
+I’m currently learning JavaScript.
 
 
 ## 🚀💻 Technologies & Tools
@@ -17,9 +18,16 @@
 <br>
 
 ## ⚡️ GitHub Stats
+<div>
+    <a href="https://github.com/Cesar-Carllos?tab=repositories">
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Cesar-Carllos&theme=dark&show_icons=true" alt="GitHub stats"/>
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Carllos&layout=donut&theme=dark" alt="GitHub stats"/>
+    <a/>
+</div>
 
-<a href="https://github.com/Cesar-Carllos?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Carllos&layout=donut&theme=dark"/>
 
-<a/>
+
+
+
+
 
