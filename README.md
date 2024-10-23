@@ -1,30 +1,30 @@
-# Hi! I'm Cesar Carlos 👋😊
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cesar_carllos/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A9sar-carlos-580a68b8/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesarcarlos.contact@gmail.com)
+## Bem-vindo(a) ao perfil do César Carlos 👋😁
 
-
-Aspiring Front-End Developer.
-
-I’m currently learning JavaScript.
-
-
-## 🚀💻 Technologies & Tools
-<div>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+ <div>
+   <a href="https://github.com/Cesar-Carllos">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cesar-Carllos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Carllos&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
 <br>
 
-## ⚡️ GitHub Stats
-<div>
-    <a href="https://github.com/Cesar-Carllos?tab=repositories">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Cesar-Carllos&theme=dark&show_icons=true" alt="GitHub stats"/>
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Carllos&layout=donut&theme=dark" alt="GitHub stats"/>
-    <a/>
+### 🚀💻 Tecnologias e ferramentas
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
-
+ 
+<br>
+ 
+### 📧😃 Social
+ 
+<div> 
+  <a href="https://instagram.com/cesar_carllos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:cesarcarlos.contact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 
 
