@@ -1,8 +1,12 @@
-## Bem-vindo! Eu sou o César Carlos 👋😁
+## Hi! I'm César Carlos 👋😁
 
  <div>
    <a href="https://github.com/Cesar-Carllos">
 </div>
+    
+## 💫 About Me:
+🌱 I’m currently learning JavaScript<br>
+💬 Ask me about<br>
 
 ## 🌐 Socials:
  
@@ -18,6 +22,14 @@
  
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+---
+
  ## 📊 GitHub Stats:
  
   ![](https://github-readme-stats.vercel.app/api?username=Cesar-Carllos&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
@@ -25,9 +37,5 @@
   
   ---
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+
 
